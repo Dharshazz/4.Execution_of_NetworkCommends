@@ -25,7 +25,7 @@ This commands includes
 <BR>
 • Other IP Commands e.g. show ip route etc.
 <BR>
-##Program
+## Program
 PING COMMEND
 CLIENT
 ```import socket 
@@ -59,13 +59,17 @@ print(result,unans)
 
 ## Output
  PING COMMEND
+ 
  CLIENT
+ 
  ![image](https://github.com/user-attachments/assets/18e4e912-c954-4799-857e-7a56283cdcd6)
 
 SERVER
+
 ![image](https://github.com/user-attachments/assets/4e2eac50-9300-4cb8-beb6-d658ec5636c6)
 
 TRANCEROUTE COMMEND
+
 ![image](https://github.com/user-attachments/assets/78628455-909f-42df-9603-54b5e5b94986)
 
 
